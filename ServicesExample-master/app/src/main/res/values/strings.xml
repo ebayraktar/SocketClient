@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ServicesExample</string>
+    <string name="compose_shortcut_short_label1">Short Label</string>
+    <string name="compose_shortcut_long_label1">Long Label</string>
+    <string name="compose_disabled_message1">Disabled Label</string>
+    <string name="hello_settings">Hello Settings!</string>
+    <string name="settings_long_label">Settings Activity!</string>
+    <string name="settings_short_label">Settings Shortcut!</string>
+    <string name="settings_disabled_label">Settings!</string>
+    <string name="ask_for_pin">Ask For Pin</string>
+</resources>
